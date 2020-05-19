@@ -1,0 +1,15 @@
+.slider {
+    width: 650px;
+    margin: 0 auto;
+}
+
+/*img {
+    width: 200px;
+    height: 200px;
+}*/
+
+#first_sliders_imgs img {
+    height: 300px;
+    width: auto;
+    margin: 0 auto; /* it centers any block level element */
+}
